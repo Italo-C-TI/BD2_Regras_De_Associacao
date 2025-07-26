@@ -1,0 +1,1 @@
+# BD2_Regras_De_Associacao
