@@ -1,1 +1,1 @@
-# BD2_Regras_De_Associacao
+Explicação do for aninhado nesse caso, ele primeiro vai pegar o 1 tem da lista e formar um par com todos os subsquentes, depois o segundo com todos os subsequente e assim por diante

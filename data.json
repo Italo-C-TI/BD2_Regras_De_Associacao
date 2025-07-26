@@ -1,0 +1,12 @@
+[
+  { "leite": "não", "café": "sim", "cerveja": "não", "pão": "sim", "manteiga": "sim", "arroz": "não", "feijão": "não" },
+  { "leite": "sim", "café": "não", "cerveja": "sim", "pão": "sim", "manteiga": "sim", "arroz": "não", "feijão": "não" },
+  { "leite": "não", "café": "sim", "cerveja": "não", "pão": "sim", "manteiga": "sim", "arroz": "não", "feijão": "não" },
+  { "leite": "sim", "café": "sim", "cerveja": "não", "pão": "sim", "manteiga": "sim", "arroz": "não", "feijão": "não" },
+  { "leite": "não", "café": "não", "cerveja": "sim", "pão": "não", "manteiga": "não", "arroz": "não", "feijão": "não" },
+  { "leite": "não", "café": "não", "cerveja": "não", "pão": "não", "manteiga": "sim", "arroz": "não", "feijão": "não" },
+  { "leite": "não", "café": "não", "cerveja": "não", "pão": "sim", "manteiga": "não", "arroz": "não", "feijão": "não" },
+  { "leite": "não", "café": "não", "cerveja": "não", "pão": "não", "manteiga": "não", "arroz": "não", "feijão": "sim" },
+  { "leite": "não", "café": "não", "cerveja": "não", "pão": "não", "manteiga": "não", "arroz": "sim", "feijão": "sim" },
+  { "leite": "não", "café": "não", "cerveja": "não", "pão": "não", "manteiga": "não", "arroz": "sim", "feijão": "não" }
+]
