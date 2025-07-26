@@ -15,7 +15,7 @@ O objetivo principal é encontrar **regras do tipo A ⇒ B**, analisando a **rel
 
 ## 🔍 Lógica e funcionamento
 
-1. **Carregamento da base de dados** (`dados.json`)
+1. **Carregamento da base de dados** (`data.json`)
    - A base deve conter uma lista de transações, onde cada transação representa a presença ou ausência ("sim" ou "não") de diversos itens.
 
 2. **Geração de combinações de itens**
@@ -29,3 +29,8 @@ O objetivo principal é encontrar **regras do tipo A ⇒ B**, analisando a **rel
 
 4. **Filtro por mínimos**
    - Apenas regras que atendem ao **suporte mínimo** e à **confiança mínima** são exibidas.
+
+👨‍💻 Integrantes da equipe
+Italo Costa
+
+Marinaldo Nunes
