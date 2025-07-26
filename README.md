@@ -31,6 +31,6 @@ O objetivo principal é encontrar **regras do tipo A ⇒ B**, analisando a **rel
    - Apenas regras que atendem ao **suporte mínimo** e à **confiança mínima** são exibidas.
 
 👨‍💻 Integrantes da equipe
-Italo Costa
 
-Marinaldo Nunes
+- Italo Costa
+- Marinaldo Nunes
