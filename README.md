@@ -1,4 +1,4 @@
-# 🧠 Regras de Associação com Algoritmo Apriori (Node.js)
+# Regras de Associação com Algoritmo Apriori (Node.js)
 
 Este projeto implementa um algoritmo simplificado de **Regras de Associação**, utilizando o método **Apriori** para identificar padrões entre itens em transações. O código é desenvolvido em **Node.js** e trabalha com arquivos de dados no formato **JSON**.
 
